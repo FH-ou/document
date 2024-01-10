@@ -1,0 +1,43 @@
+书：
+高性能mysql
+鸟哥的linux私房菜
+effective java
+编程珠玑
+图解http
+图解tcp
+淘宝这十年
+linux高性能
+
+推荐工具：
+git bash的 mac
+evernote 云笔记
+notepad++
+mysql workbench
+xmind
+plantuml
+xshell
+another redis desktop manager
+postman
+
+chrome插件
+json viewer
+wappalyzer
+身份验证器
+
+idea插件
+plantuml integration
+maven helper
+lombok
+eclipse code formatter
+generateserialversionUID
+free mybatis plugin
+arthas idea
+.ignore
+docker
+
+非it工具大全
+metools.info
+
+it工具大全
+tool.oschina.net
+
